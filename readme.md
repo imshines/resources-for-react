@@ -1,5 +1,4 @@
 # Resources For React ⚛
-<hr />
 <h4>
   A repo which consists of all the resources you need to learn React 😎
 </h4>
