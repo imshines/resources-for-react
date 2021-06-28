@@ -8,7 +8,7 @@
 
 |Name| Link|Description|
 |---|---|--|
-|Codevolution|[Codevolution Youtube](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)|This channel has Everything you need to know about React, it has all the concepts in React and also has svelte, vue, angular tutorials too 🤯. |
+|Codevolution|[Codevolution Youtube](https://www.youtube.com/c/Codevolution/playlists)|This channel has Everything you need to know about React, it has all the concepts in React and also has svelte, vue, angular tutorials too 🤯. |
 
 ## - Blogs ✍
 
