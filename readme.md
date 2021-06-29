@@ -8,7 +8,8 @@
 
 |Name| Link|Description|
 |---|---|--|
-|Codevolution|[Codevolution Youtube](https://www.youtube.com/c/Codevolution/playlists)|This channel has Everything you need to know about React, it has all the concepts in React and also has svelte, vue, angular tutorials too 🤯. |
+|Codevolution react playlist|[Click here](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)|This channel has Everything you need to know about React, it has all the concepts in React and also has svelte, vue, angular tutorials too 🤯. |
+|React Crash course (Traversy Media)|[Click here](https://www.youtube.com/watch?v=w7ejDZ8SWv8)|This is a beginner friendly react course by traversy media.|
 
 ## - Blogs ✍
 
