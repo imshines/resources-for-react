@@ -21,6 +21,7 @@
 |Name| Link|Description|
 |---|---|--|
 |Chakra UI|[Click here](https://chakra-ui.com)|Chakra UI is an easy to use UI library which is specifically created for React. You can write accessible apps with ease. |
+|Tailwind CSS|[Click here](https://tailwindcss.com/)| A utility based CSS mostly used to reduce size for your css file in production |
 
 ## - Packages 📦
 
