@@ -30,6 +30,7 @@
 |Axios|[Click here](https://www.npmjs.com/package/axios)|Promise based HTTP client for the browser and node.js|
 |React Router|[Click here](https://reactrouter.com/web/guides/quick-start)|Package for redirection or route to other pages|
 |React Table|[Click here](https://react-table.tanstack.com/)|Lightweight and extensible data tables for React, easy to use|
+|React Sortable Hoc|[Click here](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=w2zodl)|A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list|
 
 ## - Blogs ✍
 
