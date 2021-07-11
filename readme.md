@@ -21,6 +21,7 @@
 |Tailwind CSS|[Click here](https://tailwindcss.com/)| A utility based CSS mostly used to reduce size for your css file in production |
 |Ant Design React|[Click here](https://ant.design/components/overview/)| An easy to use React UI library which has a lot of features and awesome components. |
 |Material UI React|[Click here](https://material-ui.com/)| A material design based UI library which is created for React. |
+|React Bootstrap|[Click here](https://react-bootstrap.github.io/)|Bootstrap but created for React.|
 
 ## - Packages 📦
 
@@ -31,6 +32,7 @@
 |React Router|[Click here](https://reactrouter.com/web/guides/quick-start)|Package for redirection or route to other pages|
 |React Table|[Click here](https://react-table.tanstack.com/)|Lightweight and extensible data tables for React, easy to use|
 |React Sortable Hoc|[Click here](https://clauderic.github.io/react-sortable-hoc/#/basic-configuration/basic-usage?_k=w2zodl)|A set of higher-order components to turn any list into an animated, accessible and touch-friendly sortable list|
+|React Hook Form|[Click here](https://react-hook-form.com/)|A form validation library for react based on react hooks.|
 
 ## - Blogs ✍
 
