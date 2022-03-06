@@ -30,8 +30,8 @@
 ## - Packages 📦
 
 | Name               | Link                                                                                                     | Description                                                                                                     |
-| ------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 🆕                 | Remotion                                                                                                 | [Click here](https://remotion.dev/)                                                                             | Write videos in React. Use your React knowledge to create real MP4 videos. 😎 |
+| ------------------ | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Remotion           | [Click here](https://remotion.dev/)                                                                      | Write videos in React. Use your React knowledge to create real MP4 videos. 😎                                   |
 | React-Toastify     | [Click here](https://fkhadra.github.io/react-toastify/introduction/)                                     | React Toastify helps you to add toast notification for you react apps with ease.                                |
 | Axios              | [Click here](https://www.npmjs.com/package/axios)                                                        | Promise based HTTP client for the browser and node.js                                                           |
 | React Router       | [Click here](https://reactrouter.com/web/guides/quick-start)                                             | Package for redirection or route to other pages                                                                 |
